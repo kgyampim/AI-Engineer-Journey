@@ -3,6 +3,7 @@ num2 = float(input('enter input your second number: '))
 sum_results = num1 + num2
 print(f"sum: {num1} + {num2} = {sum_results}")
 
+
 num3 = float(input('enter your third number: '))
 num4 = float(input('enter your fourth number: '))
 if num4 == 0:
